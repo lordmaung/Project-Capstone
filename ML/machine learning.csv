@@ -1,0 +1,807 @@
+Dateline (hari);Tingkat Important;Tingkat Urgent;Kompleksitas;Prioritas
+0;important;urgent;tinggi;do it now
+0;important;not urgent;sedang;schedule
+0;not important;urgent;sedang;delegate
+0;not important;not urgent;rendah;drop
+1;important;urgent;tinggi;do it now
+1;important;not urgent;sedang;schedule
+1;not important;urgent;sedang;delegate
+1;not important;not urgent;rendah;drop
+2;important;urgent;sedang;schedule
+2;important;not urgent;sedang;schedule
+2;not important;urgent;sedang;delegate
+2;not important;not urgent;rendah;drop
+3;important;urgent;sedang;schedule
+3;important;not urgent;sedang;schedule
+3;not important;urgent;sedang;delegate
+3;not important;not urgent;rendah;drop
+4;important;urgent;sedang;schedule
+4;important;not urgent;sedang;schedule
+4;not important;urgent;sedang;delegate
+4;not important;not urgent;rendah;drop
+5;important;urgent;sedang;schedule
+5;important;not urgent;sedang;schedule
+5;not important;urgent;sedang;delegate
+5;not important;not urgent;rendah;drop
+6;important;urgent;sedang;schedule
+6;important;not urgent;sedang;schedule
+6;not important;urgent;sedang;delegate
+6;not important;not urgent;rendah;drop
+7;important;urgent;sedang;schedule
+7;important;not urgent;sedang;schedule
+7;not important;urgent;sedang;delegate
+7;not important;not urgent;rendah;drop
+8;important;urgent;sedang;schedule
+8;important;not urgent;sedang;schedule
+8;not important;urgent;sedang;delegate
+8;not important;not urgent;rendah;drop
+9;important;urgent;sedang;schedule
+9;important;not urgent;sedang;schedule
+9;not important;urgent;sedang;delegate
+9;not important;not urgent;rendah;drop
+10;important;urgent;sedang;schedule
+10;important;not urgent;sedang;schedule
+10;not important;urgent;sedang;delegate
+10;not important;not urgent;rendah;drop
+11;important;urgent;sedang;schedule
+11;important;not urgent;sedang;schedule
+11;not important;urgent;sedang;delegate
+11;not important;not urgent;rendah;drop
+12;important;urgent;sedang;schedule
+12;important;not urgent;sedang;schedule
+12;not important;urgent;sedang;delegate
+12;not important;not urgent;rendah;drop
+13;important;urgent;sedang;schedule
+13;important;not urgent;sedang;schedule
+13;not important;urgent;sedang;delegate
+13;not important;not urgent;rendah;drop
+14;important;urgent;sedang;schedule
+14;important;not urgent;sedang;schedule
+14;not important;urgent;sedang;delegate
+14;not important;not urgent;rendah;drop
+15;important;urgent;sedang;schedule
+15;important;not urgent;sedang;schedule
+15;not important;urgent;sedang;delegate
+15;not important;not urgent;rendah;drop
+16;important;urgent;sedang;schedule
+16;important;not urgent;sedang;schedule
+16;not important;urgent;sedang;delegate
+16;not important;not urgent;rendah;drop
+17;important;urgent;sedang;schedule
+17;important;not urgent;sedang;schedule
+17;not important;urgent;sedang;delegate
+17;not important;not urgent;rendah;drop
+18;important;urgent;sedang;schedule
+18;important;not urgent;sedang;schedule
+18;not important;urgent;sedang;delegate
+18;not important;not urgent;rendah;drop
+19;important;urgent;sedang;schedule
+19;important;not urgent;sedang;schedule
+19;not important;urgent;sedang;delegate
+19;not important;not urgent;rendah;drop
+20;important;urgent;sedang;schedule
+20;important;not urgent;sedang;schedule
+20;not important;urgent;sedang;delegate
+20;not important;not urgent;rendah;drop
+21;important;urgent;sedang;schedule
+21;important;not urgent;sedang;schedule
+21;not important;urgent;sedang;delegate
+21;not important;not urgent;rendah;drop
+22;not important;not urgent;rendah;drop
+22;important;not urgent;sedang;schedule
+22;not important;not urgent;rendah;drop
+22;important;not urgent;sedang;schedule
+23;not important;not urgent;rendah;drop
+23;important;not urgent;sedang;schedule
+23;not important;not urgent;rendah;drop
+23;important;not urgent;sedang;schedule
+24;not important;not urgent;rendah;drop
+24;important;not urgent;sedang;schedule
+24;not important;not urgent;rendah;drop
+24;important;not urgent;sedang;schedule
+25;not important;not urgent;rendah;drop
+25;important;not urgent;sedang;schedule
+25;not important;not urgent;rendah;drop
+25;important;not urgent;sedang;schedule
+26;not important;not urgent;rendah;drop
+26;important;not urgent;sedang;schedule
+26;not important;not urgent;rendah;drop
+26;important;not urgent;sedang;schedule
+27;important;urgent;sedang;schedule
+27;important;not urgent;sedang;schedule
+27;not important;urgent;sedang;delegate
+27;not important;not urgent;rendah;drop
+28;important;urgent;sedang;schedule
+28;important;not urgent;sedang;schedule
+28;not important;urgent;sedang;delegate
+28;not important;not urgent;rendah;drop
+29;important;urgent;sedang;schedule
+29;important;not urgent;sedang;schedule
+29;not important;urgent;sedang;delegate
+29;not important;not urgent;rendah;drop
+30;important;urgent;sedang;schedule
+30;important;not urgent;sedang;schedule
+30;not important;urgent;sedang;delegate
+30;not important;not urgent;rendah;drop
+31;important;urgent;sedang;schedule
+31;important;not urgent;sedang;schedule
+31;not important;urgent;sedang;delegate
+31;not important;not urgent;rendah;drop
+32;important;urgent;sedang;schedule
+32;important;not urgent;sedang;schedule
+32;not important;urgent;sedang;delegate
+32;not important;not urgent;rendah;drop
+33;important;urgent;sedang;schedule
+33;important;not urgent;sedang;schedule
+33;not important;urgent;sedang;delegate
+33;not important;not urgent;rendah;drop
+34;important;urgent;sedang;schedule
+34;important;not urgent;sedang;schedule
+34;not important;urgent;sedang;delegate
+34;not important;not urgent;rendah;drop
+35;important;urgent;sedang;schedule
+35;important;not urgent;sedang;schedule
+35;not important;urgent;sedang;delegate
+35;not important;not urgent;rendah;drop
+36;important;urgent;sedang;schedule
+36;important;not urgent;sedang;schedule
+36;not important;urgent;sedang;delegate
+36;not important;not urgent;rendah;drop
+37;important;urgent;sedang;schedule
+37;important;not urgent;sedang;schedule
+37;not important;urgent;sedang;delegate
+37;not important;not urgent;rendah;drop
+38;important;urgent;sedang;schedule
+38;important;not urgent;sedang;schedule
+38;not important;urgent;sedang;delegate
+38;not important;not urgent;rendah;drop
+39;important;urgent;sedang;schedule
+39;important;not urgent;sedang;schedule
+39;not important;urgent;sedang;delegate
+39;not important;not urgent;rendah;drop
+40;important;urgent;sedang;schedule
+40;important;not urgent;sedang;schedule
+40;not important;urgent;sedang;delegate
+40;not important;not urgent;rendah;drop
+41;important;urgent;sedang;schedule
+41;important;not urgent;sedang;schedule
+41;not important;urgent;sedang;delegate
+41;not important;not urgent;rendah;drop
+42;important;urgent;sedang;schedule
+42;important;not urgent;sedang;schedule
+42;not important;urgent;sedang;delegate
+42;not important;not urgent;rendah;drop
+43;important;urgent;sedang;schedule
+43;important;not urgent;sedang;schedule
+43;not important;urgent;sedang;delegate
+43;not important;not urgent;rendah;drop
+44;important;urgent;sedang;schedule
+44;important;not urgent;sedang;schedule
+44;not important;urgent;sedang;delegate
+44;not important;not urgent;rendah;drop
+45;important;urgent;sedang;schedule
+45;important;not urgent;sedang;schedule
+45;not important;urgent;sedang;delegate
+45;not important;not urgent;rendah;drop
+46;important;urgent;sedang;schedule
+46;important;not urgent;sedang;schedule
+46;not important;urgent;sedang;delegate
+46;not important;not urgent;rendah;drop
+47;important;urgent;sedang;schedule
+47;important;not urgent;sedang;schedule
+47;not important;urgent;sedang;delegate
+47;not important;not urgent;rendah;drop
+48;important;urgent;sedang;schedule
+48;important;not urgent;sedang;schedule
+48;not important;urgent;sedang;delegate
+48;not important;not urgent;rendah;drop
+49;important;urgent;sedang;schedule
+49;important;not urgent;sedang;schedule
+49;not important;urgent;sedang;delegate
+49;not important;not urgent;rendah;drop
+50;important;urgent;sedang;schedule
+50;important;not urgent;sedang;schedule
+50;not important;urgent;sedang;delegate
+50;not important;not urgent;rendah;drop
+51;important;urgent;sedang;schedule
+51;important;not urgent;sedang;schedule
+51;not important;urgent;sedang;delegate
+51;not important;not urgent;rendah;drop
+52;important;urgent;sedang;schedule
+52;important;not urgent;sedang;schedule
+52;not important;urgent;sedang;delegate
+52;not important;not urgent;rendah;drop
+53;important;urgent;sedang;schedule
+53;important;not urgent;sedang;schedule
+53;not important;urgent;sedang;delegate
+53;not important;not urgent;rendah;drop
+54;important;urgent;sedang;schedule
+54;important;not urgent;sedang;schedule
+54;not important;urgent;sedang;delegate
+54;not important;not urgent;rendah;drop
+55;important;urgent;sedang;schedule
+55;important;not urgent;sedang;schedule
+55;not important;urgent;sedang;delegate
+55;not important;not urgent;rendah;drop
+56;important;urgent;sedang;schedule
+56;important;not urgent;sedang;schedule
+56;not important;urgent;sedang;delegate
+56;not important;not urgent;rendah;drop
+57;important;urgent;sedang;schedule
+57;important;not urgent;sedang;schedule
+57;not important;urgent;sedang;delegate
+57;not important;not urgent;rendah;drop
+58;important;urgent;sedang;schedule
+58;important;not urgent;sedang;schedule
+58;not important;urgent;sedang;delegate
+58;not important;not urgent;rendah;drop
+59;important;urgent;sedang;schedule
+59;important;not urgent;sedang;schedule
+59;not important;urgent;sedang;delegate
+59;not important;not urgent;rendah;drop
+60;important;urgent;sedang;schedule
+60;important;not urgent;sedang;schedule
+60;not important;urgent;sedang;delegate
+60;not important;not urgent;rendah;drop
+61;important;urgent;sedang;schedule
+61;important;not urgent;sedang;schedule
+61;not important;urgent;sedang;delegate
+61;not important;not urgent;rendah;drop
+62;important;urgent;sedang;schedule
+62;important;not urgent;sedang;schedule
+62;not important;urgent;sedang;delegate
+62;not important;not urgent;rendah;drop
+63;important;urgent;sedang;schedule
+63;important;not urgent;sedang;schedule
+63;not important;urgent;sedang;delegate
+63;not important;not urgent;rendah;drop
+64;important;urgent;sedang;schedule
+64;important;not urgent;sedang;schedule
+64;not important;urgent;sedang;delegate
+64;not important;not urgent;rendah;drop
+65;important;urgent;sedang;schedule
+65;important;not urgent;sedang;schedule
+65;not important;urgent;sedang;delegate
+65;not important;not urgent;rendah;drop
+66;important;urgent;sedang;schedule
+66;important;not urgent;sedang;schedule
+66;not important;urgent;sedang;delegate
+66;not important;not urgent;rendah;drop
+67;important;urgent;sedang;schedule
+67;important;not urgent;sedang;schedule
+67;not important;urgent;sedang;delegate
+67;not important;not urgent;rendah;drop
+68;important;urgent;sedang;schedule
+68;important;not urgent;sedang;schedule
+68;not important;urgent;sedang;delegate
+68;not important;not urgent;rendah;drop
+69;important;urgent;sedang;schedule
+69;important;not urgent;sedang;schedule
+69;not important;urgent;sedang;delegate
+69;not important;not urgent;rendah;drop
+70;important;urgent;sedang;schedule
+70;important;not urgent;sedang;schedule
+70;not important;urgent;sedang;delegate
+70;not important;not urgent;rendah;drop
+71;important;urgent;sedang;schedule
+71;important;not urgent;sedang;schedule
+71;not important;urgent;sedang;delegate
+71;not important;not urgent;rendah;drop
+72;important;urgent;sedang;schedule
+72;important;not urgent;sedang;schedule
+72;not important;urgent;sedang;delegate
+72;not important;not urgent;rendah;drop
+73;important;urgent;sedang;schedule
+73;important;not urgent;sedang;schedule
+73;not important;urgent;sedang;delegate
+73;not important;not urgent;rendah;drop
+74;important;urgent;sedang;schedule
+74;important;not urgent;sedang;schedule
+74;not important;urgent;sedang;delegate
+74;not important;not urgent;rendah;drop
+75;important;urgent;sedang;schedule
+75;important;not urgent;sedang;schedule
+75;not important;urgent;sedang;delegate
+75;not important;not urgent;rendah;drop
+76;important;urgent;sedang;schedule
+76;important;not urgent;sedang;schedule
+76;not important;urgent;sedang;delegate
+76;not important;not urgent;rendah;drop
+77;important;urgent;sedang;schedule
+77;important;not urgent;sedang;schedule
+77;not important;urgent;sedang;delegate
+77;not important;not urgent;rendah;drop
+78;important;urgent;sedang;schedule
+78;important;not urgent;sedang;schedule
+78;not important;urgent;sedang;delegate
+78;not important;not urgent;rendah;drop
+79;important;urgent;sedang;schedule
+79;important;not urgent;sedang;schedule
+79;not important;urgent;sedang;delegate
+79;not important;not urgent;rendah;drop
+80;important;urgent;sedang;schedule
+80;important;not urgent;sedang;schedule
+80;not important;urgent;sedang;delegate
+80;not important;not urgent;rendah;drop
+81;important;urgent;sedang;schedule
+81;important;not urgent;sedang;schedule
+81;not important;urgent;sedang;delegate
+81;not important;not urgent;rendah;drop
+82;important;urgent;sedang;schedule
+82;important;not urgent;sedang;schedule
+82;not important;urgent;sedang;delegate
+82;not important;not urgent;rendah;drop
+83;important;urgent;sedang;schedule
+83;important;not urgent;sedang;schedule
+83;not important;urgent;sedang;delegate
+83;not important;not urgent;rendah;drop
+84;important;urgent;sedang;schedule
+84;important;not urgent;sedang;schedule
+84;not important;urgent;sedang;delegate
+84;not important;not urgent;rendah;drop
+85;important;urgent;sedang;schedule
+85;important;not urgent;sedang;schedule
+85;not important;urgent;sedang;delegate
+85;not important;not urgent;rendah;drop
+86;important;urgent;sedang;schedule
+86;important;not urgent;sedang;schedule
+86;not important;urgent;sedang;delegate
+86;not important;not urgent;rendah;drop
+87;important;urgent;sedang;schedule
+87;important;not urgent;sedang;schedule
+87;not important;urgent;sedang;delegate
+87;not important;not urgent;rendah;drop
+88;important;urgent;sedang;schedule
+88;important;not urgent;sedang;schedule
+88;not important;urgent;sedang;delegate
+88;not important;not urgent;rendah;drop
+89;important;urgent;sedang;schedule
+89;important;not urgent;sedang;schedule
+89;not important;urgent;sedang;delegate
+89;not important;not urgent;rendah;drop
+90;important;urgent;sedang;schedule
+90;important;not urgent;sedang;schedule
+90;not important;urgent;sedang;delegate
+90;not important;not urgent;rendah;drop
+91;important;urgent;sedang;schedule
+91;important;not urgent;sedang;schedule
+91;not important;urgent;sedang;delegate
+91;not important;not urgent;rendah;drop
+92;important;urgent;sedang;schedule
+92;important;not urgent;sedang;schedule
+92;not important;urgent;sedang;delegate
+92;not important;not urgent;rendah;drop
+93;important;urgent;sedang;schedule
+93;important;not urgent;sedang;schedule
+93;not important;urgent;sedang;delegate
+93;not important;not urgent;rendah;drop
+94;important;urgent;sedang;schedule
+94;important;not urgent;sedang;schedule
+94;not important;urgent;sedang;delegate
+94;not important;not urgent;rendah;drop
+95;important;urgent;sedang;schedule
+95;important;not urgent;sedang;schedule
+95;not important;urgent;sedang;delegate
+95;not important;not urgent;rendah;drop
+96;important;urgent;sedang;schedule
+96;important;not urgent;sedang;schedule
+96;not important;urgent;sedang;delegate
+96;not important;not urgent;rendah;drop
+97;important;urgent;sedang;schedule
+97;important;not urgent;sedang;schedule
+97;not important;urgent;sedang;delegate
+97;not important;not urgent;rendah;drop
+98;important;urgent;sedang;schedule
+98;important;not urgent;sedang;schedule
+98;not important;urgent;sedang;delegate
+98;not important;not urgent;rendah;drop
+99;important;urgent;sedang;schedule
+99;important;not urgent;sedang;schedule
+99;not important;urgent;sedang;delegate
+99;not important;not urgent;rendah;drop
+100;important;urgent;sedang;schedule
+100;important;not urgent;sedang;schedule
+100;not important;urgent;sedang;delegate
+100;not important;not urgent;rendah;drop
+101;important;urgent;sedang;schedule
+101;important;not urgent;sedang;schedule
+101;not important;urgent;sedang;delegate
+101;not important;not urgent;rendah;drop
+102;important;urgent;sedang;schedule
+102;important;not urgent;sedang;schedule
+102;not important;urgent;sedang;delegate
+102;not important;not urgent;rendah;drop
+103;important;urgent;sedang;schedule
+103;important;not urgent;sedang;schedule
+103;not important;urgent;sedang;delegate
+103;not important;not urgent;rendah;drop
+104;important;urgent;sedang;schedule
+104;important;not urgent;sedang;schedule
+104;not important;urgent;sedang;delegate
+104;not important;not urgent;rendah;drop
+105;important;urgent;sedang;schedule
+105;important;not urgent;sedang;schedule
+105;not important;urgent;sedang;delegate
+105;not important;not urgent;rendah;drop
+106;important;urgent;sedang;schedule
+106;important;not urgent;sedang;schedule
+106;not important;urgent;sedang;delegate
+106;not important;not urgent;rendah;drop
+107;important;urgent;sedang;schedule
+107;important;not urgent;sedang;schedule
+107;not important;urgent;sedang;delegate
+107;not important;not urgent;rendah;drop
+108;important;urgent;sedang;schedule
+108;important;not urgent;sedang;schedule
+108;not important;urgent;sedang;delegate
+108;not important;not urgent;rendah;drop
+109;important;urgent;sedang;schedule
+109;important;not urgent;sedang;schedule
+109;not important;urgent;sedang;delegate
+109;not important;not urgent;rendah;drop
+110;important;urgent;sedang;schedule
+110;important;not urgent;sedang;schedule
+110;not important;urgent;sedang;delegate
+110;not important;not urgent;rendah;drop
+111;important;urgent;sedang;schedule
+111;important;not urgent;sedang;schedule
+111;not important;urgent;sedang;delegate
+111;not important;not urgent;rendah;drop
+112;important;urgent;sedang;schedule
+112;important;not urgent;sedang;schedule
+112;not important;urgent;sedang;delegate
+112;not important;not urgent;rendah;drop
+113;important;urgent;sedang;schedule
+113;important;not urgent;sedang;schedule
+113;not important;urgent;sedang;delegate
+113;not important;not urgent;rendah;drop
+114;important;urgent;sedang;schedule
+114;important;not urgent;sedang;schedule
+114;not important;urgent;sedang;delegate
+114;not important;not urgent;rendah;drop
+115;important;urgent;sedang;schedule
+115;important;not urgent;sedang;schedule
+115;not important;urgent;sedang;delegate
+115;not important;not urgent;rendah;drop
+116;important;urgent;sedang;schedule
+116;important;not urgent;sedang;schedule
+116;not important;urgent;sedang;delegate
+116;not important;not urgent;rendah;drop
+117;important;urgent;sedang;schedule
+117;important;not urgent;sedang;schedule
+117;not important;urgent;sedang;delegate
+117;not important;not urgent;rendah;drop
+118;important;urgent;sedang;schedule
+118;important;not urgent;sedang;schedule
+118;not important;urgent;sedang;delegate
+118;not important;not urgent;rendah;drop
+119;important;urgent;sedang;schedule
+119;important;not urgent;sedang;schedule
+119;not important;urgent;sedang;delegate
+119;not important;not urgent;rendah;drop
+120;important;urgent;sedang;schedule
+120;important;not urgent;sedang;schedule
+120;not important;urgent;sedang;delegate
+120;not important;not urgent;rendah;drop
+121;important;urgent;sedang;schedule
+121;important;not urgent;sedang;schedule
+121;not important;urgent;sedang;delegate
+121;not important;not urgent;rendah;drop
+122;important;urgent;sedang;schedule
+122;important;not urgent;sedang;schedule
+122;not important;urgent;sedang;delegate
+122;not important;not urgent;rendah;drop
+123;important;urgent;sedang;schedule
+123;important;not urgent;sedang;schedule
+123;not important;urgent;sedang;delegate
+123;not important;not urgent;rendah;drop
+124;important;urgent;sedang;schedule
+124;important;not urgent;sedang;schedule
+124;not important;urgent;sedang;delegate
+124;not important;not urgent;rendah;drop
+125;important;urgent;sedang;schedule
+125;important;not urgent;sedang;schedule
+125;not important;urgent;sedang;delegate
+125;not important;not urgent;rendah;drop
+126;important;urgent;sedang;schedule
+126;important;not urgent;sedang;schedule
+126;not important;urgent;sedang;delegate
+126;not important;not urgent;rendah;drop
+127;important;urgent;sedang;schedule
+127;important;not urgent;sedang;schedule
+127;not important;urgent;sedang;delegate
+127;not important;not urgent;rendah;drop
+128;important;urgent;sedang;schedule
+128;important;not urgent;sedang;schedule
+128;not important;urgent;sedang;delegate
+128;not important;not urgent;rendah;drop
+129;important;urgent;sedang;schedule
+129;important;not urgent;sedang;schedule
+129;not important;urgent;sedang;delegate
+129;not important;not urgent;rendah;drop
+130;important;urgent;sedang;schedule
+130;important;not urgent;sedang;schedule
+130;not important;urgent;sedang;delegate
+130;not important;not urgent;rendah;drop
+131;important;urgent;sedang;schedule
+131;important;not urgent;sedang;schedule
+131;not important;urgent;sedang;delegate
+131;not important;not urgent;rendah;drop
+132;important;urgent;sedang;schedule
+132;important;not urgent;sedang;schedule
+132;not important;urgent;sedang;delegate
+132;not important;not urgent;rendah;drop
+133;important;urgent;sedang;schedule
+133;important;not urgent;sedang;schedule
+133;not important;urgent;sedang;delegate
+133;not important;not urgent;rendah;drop
+134;important;urgent;sedang;schedule
+134;important;not urgent;sedang;schedule
+134;not important;urgent;sedang;delegate
+134;not important;not urgent;rendah;drop
+135;important;urgent;sedang;schedule
+135;important;not urgent;sedang;schedule
+135;not important;urgent;sedang;delegate
+135;not important;not urgent;rendah;drop
+136;important;urgent;sedang;schedule
+136;important;not urgent;sedang;schedule
+136;not important;urgent;sedang;delegate
+136;not important;not urgent;rendah;drop
+137;important;urgent;sedang;schedule
+137;important;not urgent;sedang;schedule
+137;not important;urgent;sedang;delegate
+137;not important;not urgent;rendah;drop
+138;important;urgent;sedang;schedule
+138;important;not urgent;sedang;schedule
+138;not important;urgent;sedang;delegate
+138;not important;not urgent;rendah;drop
+139;important;urgent;sedang;schedule
+139;important;not urgent;sedang;schedule
+139;not important;urgent;sedang;delegate
+139;not important;not urgent;rendah;drop
+140;important;urgent;sedang;schedule
+140;important;not urgent;sedang;schedule
+140;not important;urgent;sedang;delegate
+140;not important;not urgent;rendah;drop
+141;important;urgent;sedang;schedule
+141;important;not urgent;sedang;schedule
+141;not important;urgent;sedang;delegate
+141;not important;not urgent;rendah;drop
+142;important;urgent;sedang;schedule
+142;important;not urgent;sedang;schedule
+142;not important;urgent;sedang;delegate
+142;not important;not urgent;rendah;drop
+143;important;urgent;sedang;schedule
+143;important;not urgent;sedang;schedule
+143;not important;urgent;sedang;delegate
+143;not important;not urgent;rendah;drop
+144;important;urgent;sedang;schedule
+144;important;not urgent;sedang;schedule
+144;not important;urgent;sedang;delegate
+144;not important;not urgent;rendah;drop
+145;important;urgent;sedang;schedule
+145;important;not urgent;sedang;schedule
+145;not important;urgent;sedang;delegate
+145;not important;not urgent;rendah;drop
+146;important;urgent;sedang;schedule
+146;important;not urgent;sedang;schedule
+146;not important;urgent;sedang;delegate
+146;not important;not urgent;rendah;drop
+147;important;urgent;sedang;schedule
+147;important;not urgent;sedang;schedule
+147;not important;urgent;sedang;delegate
+147;not important;not urgent;rendah;drop
+148;important;urgent;sedang;schedule
+148;important;not urgent;sedang;schedule
+148;not important;urgent;sedang;delegate
+148;not important;not urgent;rendah;drop
+149;important;urgent;sedang;schedule
+149;important;not urgent;sedang;schedule
+149;not important;urgent;sedang;delegate
+149;not important;not urgent;rendah;drop
+150;important;urgent;sedang;schedule
+150;important;not urgent;sedang;schedule
+150;not important;urgent;sedang;delegate
+150;not important;not urgent;rendah;drop
+151;important;urgent;sedang;schedule
+151;important;not urgent;sedang;schedule
+151;not important;urgent;sedang;delegate
+151;not important;not urgent;rendah;drop
+152;important;urgent;sedang;schedule
+152;important;not urgent;sedang;schedule
+152;not important;urgent;sedang;delegate
+152;not important;not urgent;rendah;drop
+153;important;urgent;sedang;schedule
+153;important;not urgent;sedang;schedule
+153;not important;urgent;sedang;delegate
+153;not important;not urgent;rendah;drop
+154;important;urgent;sedang;schedule
+154;important;not urgent;sedang;schedule
+154;not important;urgent;sedang;delegate
+154;not important;not urgent;rendah;drop
+155;important;urgent;sedang;schedule
+155;important;not urgent;sedang;schedule
+155;not important;urgent;sedang;delegate
+155;not important;not urgent;rendah;drop
+156;important;urgent;sedang;schedule
+156;important;not urgent;sedang;schedule
+156;not important;urgent;sedang;delegate
+156;not important;not urgent;rendah;drop
+157;important;urgent;sedang;schedule
+157;important;not urgent;sedang;schedule
+157;not important;urgent;sedang;delegate
+157;not important;not urgent;rendah;drop
+158;important;urgent;sedang;schedule
+158;important;not urgent;sedang;schedule
+158;not important;urgent;sedang;delegate
+158;not important;not urgent;rendah;drop
+159;important;urgent;sedang;schedule
+159;important;not urgent;sedang;schedule
+159;not important;urgent;sedang;delegate
+159;not important;not urgent;rendah;drop
+160;important;urgent;sedang;schedule
+160;important;not urgent;sedang;schedule
+160;not important;urgent;sedang;delegate
+160;not important;not urgent;rendah;drop
+161;important;urgent;sedang;schedule
+161;important;not urgent;sedang;schedule
+161;not important;urgent;sedang;delegate
+161;not important;not urgent;rendah;drop
+162;important;urgent;sedang;schedule
+162;important;not urgent;sedang;schedule
+162;not important;urgent;sedang;delegate
+162;not important;not urgent;rendah;drop
+163;important;urgent;sedang;schedule
+163;important;not urgent;sedang;schedule
+163;not important;urgent;sedang;delegate
+163;not important;not urgent;rendah;drop
+164;important;urgent;sedang;schedule
+164;important;not urgent;sedang;schedule
+164;not important;urgent;sedang;delegate
+164;not important;not urgent;rendah;drop
+165;important;urgent;sedang;schedule
+165;important;not urgent;sedang;schedule
+165;not important;urgent;sedang;delegate
+165;not important;not urgent;rendah;drop
+166;important;urgent;sedang;schedule
+166;important;not urgent;sedang;schedule
+166;not important;urgent;sedang;delegate
+166;not important;not urgent;rendah;drop
+167;important;urgent;sedang;schedule
+167;important;not urgent;sedang;schedule
+167;not important;urgent;sedang;delegate
+167;not important;not urgent;rendah;drop
+168;important;urgent;sedang;schedule
+168;important;not urgent;sedang;schedule
+168;not important;urgent;sedang;delegate
+168;not important;not urgent;rendah;drop
+169;important;urgent;sedang;schedule
+169;important;not urgent;sedang;schedule
+169;not important;urgent;sedang;delegate
+169;not important;not urgent;rendah;drop
+170;important;urgent;sedang;schedule
+170;important;not urgent;sedang;schedule
+170;not important;urgent;sedang;delegate
+170;not important;not urgent;rendah;drop
+171;important;urgent;sedang;schedule
+171;important;not urgent;sedang;schedule
+171;not important;urgent;sedang;delegate
+171;not important;not urgent;rendah;drop
+172;important;urgent;sedang;schedule
+172;important;not urgent;sedang;schedule
+172;not important;urgent;sedang;delegate
+172;not important;not urgent;rendah;drop
+173;important;urgent;sedang;schedule
+173;important;not urgent;sedang;schedule
+173;not important;urgent;sedang;delegate
+173;not important;not urgent;rendah;drop
+174;important;urgent;sedang;schedule
+174;important;not urgent;sedang;schedule
+174;not important;urgent;sedang;delegate
+174;not important;not urgent;rendah;drop
+175;important;urgent;sedang;schedule
+175;important;not urgent;sedang;schedule
+175;not important;urgent;sedang;delegate
+175;not important;not urgent;rendah;drop
+176;important;urgent;sedang;schedule
+176;important;not urgent;sedang;schedule
+176;not important;urgent;sedang;delegate
+176;not important;not urgent;rendah;drop
+177;important;urgent;sedang;schedule
+177;important;not urgent;sedang;schedule
+177;not important;urgent;sedang;delegate
+177;not important;not urgent;rendah;drop
+178;important;urgent;sedang;schedule
+178;important;not urgent;sedang;schedule
+178;not important;urgent;sedang;delegate
+178;not important;not urgent;rendah;drop
+179;important;urgent;sedang;schedule
+179;important;not urgent;sedang;schedule
+179;not important;urgent;sedang;delegate
+179;not important;not urgent;rendah;drop
+180;important;urgent;sedang;schedule
+180;important;not urgent;sedang;schedule
+180;not important;urgent;sedang;delegate
+180;not important;not urgent;rendah;drop
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
+0;important;urgent;tinggi;do it now
+1;important;urgent;tinggi;do it now
